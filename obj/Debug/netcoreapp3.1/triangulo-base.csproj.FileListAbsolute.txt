@@ -1,0 +1,13 @@
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.exe
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.deps.json
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.runtimeconfig.json
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.runtimeconfig.dev.json
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.dll
+E:\PROGRAMA\C#\triangulo-base\bin\Debug\netcoreapp3.1\triangulo-base.pdb
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.csprojAssemblyReference.cache
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.AssemblyInfoInputs.cache
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.AssemblyInfo.cs
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.csproj.CoreCompileInputs.cache
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.dll
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.pdb
+E:\PROGRAMA\C#\triangulo-base\obj\Debug\netcoreapp3.1\triangulo-base.genruntimeconfig.cache
